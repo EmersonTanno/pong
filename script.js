@@ -15,7 +15,7 @@ let alturaRacket = 100;
 
 let xEnemyRacket = 580;
 let yEnemyRacket = 150;
-let enemyRaqueteSpeed = 5;
+let enemyRaqueteSpeed = 4;
 
 
 //===================================Pontuação
